@@ -129,6 +129,8 @@ h2 {
     display: flex;
     padding: 50px;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .background-bluebox {
@@ -136,4 +138,5 @@ h2 {
     justify-content: space-around;
     background-color: #3882F6;
     padding: 15px;
+    width: 1000px;
 }
