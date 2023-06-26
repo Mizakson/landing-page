@@ -103,4 +103,5 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     color: darkgray;
+    max-width: 135px;
 }
