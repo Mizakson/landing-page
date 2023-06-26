@@ -29,10 +29,9 @@ body {
 
 .p1 {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     background-color: #1F2937;
     padding: 75px;
-    gap: 50px;
 }
 
 #p1-header {
