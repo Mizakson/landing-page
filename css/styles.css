@@ -164,10 +164,12 @@ h3 {
 
 .footer {
     background-color: #1F2937;
+    padding: 40px;
 }
 
 #footer-text {
     color: #F9FAF8;
     font-size: 14px;
     font-weight: lighter;
+    text-align: center;
 }
