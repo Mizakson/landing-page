@@ -126,6 +126,7 @@ h2 {
 }
 
 .p4 {
-    height: 250px;
-    padding-top: 25px;
+    display: flex;
+    padding: 50px;
+    flex-direction: column;
 }
