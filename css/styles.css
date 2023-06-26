@@ -139,6 +139,7 @@ h2 {
     background-color: #3882F6;
     padding: 15px;
     width: 1000px;
+    border-radius: 8px;
 }
 
 .sign-up-text {
