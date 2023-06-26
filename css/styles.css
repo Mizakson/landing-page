@@ -34,3 +34,10 @@ body {
     background-color: #1F2937;
     padding: 75px;
 }
+
+.p1-text {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 350px;
+}
