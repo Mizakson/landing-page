@@ -27,3 +27,8 @@ body {
     color: #F9FAF8;
     margin-left: 175px;
 }
+
+.p1 {
+    display: flex;
+    justify-content: center;
+}
