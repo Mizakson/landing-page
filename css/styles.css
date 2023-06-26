@@ -22,7 +22,7 @@ body {
     margin-right: 75px;
 }
 
-#p1-header {
+#main-header {
     font-size: 28px;
     color: white;
     margin-left: 175px;
@@ -34,6 +34,10 @@ body {
     background-color: #1F2937;
     padding: 75px;
     gap: 50px;
+}
+
+#p1-header {
+    color: white;
 }
 
 .p1-text {
