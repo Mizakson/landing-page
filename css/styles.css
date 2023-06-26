@@ -59,6 +59,12 @@ body {
     align-items: center;
 }
 
+.p1-button {
+    background-color: #3882F6;
+    color:#F9FAF8;
+    border-radius: 25px;
+}
+
 .p2 {
     display: flex;
     flex-direction: column;
