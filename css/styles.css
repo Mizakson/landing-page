@@ -140,3 +140,8 @@ h2 {
     padding: 15px;
     width: 1000px;
 }
+
+.sign-up-text {
+    display: flex;
+    flex-direction: column;
+}
