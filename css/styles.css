@@ -120,3 +120,7 @@ body {
     font-weight: 200;
     padding-bottom: 5px;
 }
+
+.h2 {
+    text-align: right;
+}
