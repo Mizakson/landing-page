@@ -53,3 +53,8 @@ body {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.img-placeholder {
+    display: flex;
+    align-items: center;
+}
