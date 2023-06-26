@@ -71,3 +71,8 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+#p2-header {
+    text-align: center;
+    padding: 10px;
+}
