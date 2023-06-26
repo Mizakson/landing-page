@@ -62,7 +62,8 @@ body {
 .p1-button {
     background-color: #3882F6;
     color:#F9FAF8;
-    border-radius: 25px;
+    border-radius: 5px;
+    padding: 4px 20px;
 }
 
 .p2 {
