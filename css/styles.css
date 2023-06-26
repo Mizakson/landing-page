@@ -33,6 +33,7 @@ body {
     justify-content: center;
     background-color: #1F2937;
     padding: 75px;
+    gap: 50px;
 }
 
 .p1-text {
