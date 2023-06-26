@@ -85,3 +85,10 @@ body {
 .box {
     display: flex;
 }
+
+.shape {
+    width: 50px;
+    padding: 50px;
+    border: 5px solid #3882F6;
+    border-radius: 8px;
+}
