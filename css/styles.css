@@ -20,13 +20,11 @@ body {
     display: flex;
     gap: 15px;
     align-items: center;
-    margin-right: 75px;
 }
 
 #main-header {
     font-size: 24px;
     color: #F9FAF8;
-    margin-left: 175px;
 }
 
 .p1 {
