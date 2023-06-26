@@ -22,3 +22,8 @@
     color: #F9FAF8;
     margin-left: 175px;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+}
