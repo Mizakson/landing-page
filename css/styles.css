@@ -24,7 +24,7 @@ body {
 
 #main-header {
     font-size: 24px;
-    color: white;
+    color: #F9FAF8;
     margin-left: 175px;
 }
 
@@ -37,7 +37,8 @@ body {
 }
 
 #p1-header {
-    color: white;
+    color: #F9FAF8;
+    font-size: 24px;
 }
 
 .p1-text {
@@ -46,4 +47,9 @@ body {
     flex-wrap: wrap;
     width: 350px;
     margin: 5px;
+}
+
+.p1-subtext {
+    font-size: 18px;
+    color: #E5E7EB;
 }
