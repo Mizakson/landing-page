@@ -106,3 +106,10 @@ body {
     color: darkgray;
     max-width: 135px;
 }
+
+.p3 {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 75px;
+}
