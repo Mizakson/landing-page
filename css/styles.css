@@ -76,3 +76,8 @@ body {
     text-align: center;
     padding: 10px;
 }
+
+.boxes-container {
+    display: flex;
+    justify-content: space-evenly;
+}
